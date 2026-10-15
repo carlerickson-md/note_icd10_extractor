@@ -1,0 +1,70 @@
+FICTIONAL DEMONSTRATION NOTE
+This note was written as an invented software-testing example. It does not describe an actual patient. All demographics, history, measurements, and circumstances are fictional. It is not clinical guidance.
+
+Neurology Follow Up Note
+
+Chief Complaints:
+1. Memory follow-up
+
+History of Present Illness
+A 72-year-old woman presents for follow-up of mild dementia. Her spouse attends the appointment. Over the past six months, she has continued to repeat questions and misplace household objects, without a clear decline in daily function. Her spouse organizes her medications, and they manage household finances together. She remains independent with dressing, bathing, and meals. She no longer drives by personal preference.
+
+She tolerates donepezil without reported gastrointestinal symptoms, lightheadedness, or syncope. She enjoys gardening and attends a weekly art group. There are no reported hallucinations, dream enactment, or recent falls.
+
+She also has obstructive sleep apnea and uses prescribed positive airway pressure therapy consistently. She reports improved daytime alertness. A remote cerebrovascular event is documented in her fictional history, with no persistent weakness, language difficulty, or sensory loss. She reports no new focal neurologic symptoms.
+
+Assessment & Plan
+Mild dementia (CMS/HCC)
+Memory symptoms and daily function are stable by patient and spouse report. Etiology remains unspecified in this demonstration case.
+• Continue current donepezil regimen.
+• Encourage regular activity, structured routines, and family assistance with medications.
+• Reassess cognition and daily function at follow-up.
+
+OSA (obstructive sleep apnea)
+Symptoms have improved with prescribed positive airway pressure therapy.
+• Continue prescribed therapy and follow-up with sleep medicine.
+
+History of CVA (cerebrovascular accident)
+Remote event without residual deficits or new focal neurologic symptoms.
+• Continue the established secondary prevention regimen.
+• Continue vascular risk factor management with primary care.
+Follow Up: Routine neurology follow-up in six months.
+_______________________________________________________________
+
+Past Medical History:
+• Mild dementia
+• Obstructive sleep apnea
+• Remote cerebrovascular event without residual deficits
+• Hypertension
+
+Medications:
+• Donepezil 5 mg nightly
+• Aspirin 81 mg daily
+• Pravastatin 40 mg daily
+• Lisinopril 10 mg daily
+
+Allergies:
+No known drug allergies.
+
+Objective:
+• Blood pressure: 126/76 mmHg
+• Pulse: 74 bpm
+• Respiratory rate: 16/min
+
+Physical Exam:
+• General: Comfortable and attentive.
+• Mental status: Conversational speech is fluent. Mild difficulty recalling recent events.
+• Cranial nerves: Extraocular movements and facial movements are symmetric.
+• Motor: No pronator drift. Strength is symmetric on screening examination.
+• Coordination: Finger-to-nose testing is intact bilaterally.
+• Gait: Independent with a stable base.
+
+Studies:
+• Fictional cognitive screening score: 22/30 today, compared with 22/30 approximately six months earlier.
+• Fictional prior brain MRI summary: Mild generalized volume loss and chronic small-vessel white matter changes. 
+• No new laboratory or imaging results are available for this demonstration visit.
+
+Total time spent on this encounter was 40 minutes, including record review, history and examination, counseling, care coordination, and documentation. Time excludes separately billable services.
+
+Documentation:
+Entirely fictional demonstration note for testing text extraction and terminology matching. No actual encounter date, patient name, institution, record number, report number, or clinician identity is included.

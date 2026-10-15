@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / AST cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project-specific
+backups/
+notes/*.txt
+!notes/.gitkeep
+!notes/synthetic_sample.txt
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables & local credentials
+.env
+.env.*
